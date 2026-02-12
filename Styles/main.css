@@ -1,0 +1,11 @@
+h2, p {
+    padding-left: 2%;
+}
+
+.spacer {
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    padding-top: 20%;
+    padding-bottom: 30%;
+}
